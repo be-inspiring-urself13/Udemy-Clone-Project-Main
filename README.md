@@ -23,3 +23,10 @@ HTML: Structured all content and components.
 
 CSS 🎨: Styled and customized the appearance, utilizing Flexbox and Grid for layout, as well as animations for smoother user interactions.
 
+Future Improvements 🚀
+
+JavaScript 🖱: Adding interactivity, like carousel sliders, hover effects, and form validation.
+
+Backend Integration 🌐: Incorporating backend functionality to enable dynamic data handling and user authentication.
+
+
